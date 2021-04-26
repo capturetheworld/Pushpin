@@ -1,10 +1,24 @@
 {
-    "name": "pushpin",
-    "version": "1.0.0",
-    "description": "Bot that pins based on emotes",
-    "main": "bot.js",
-    "author": "IanTech",
-    "dependencies": {
-        "discord.js": "^12.5.3"
-    }
+  "name": "pushpin",
+  "version": "1.0.0",
+  "description": "Bot that pins based on emotes",
+  "main": "bot.js",
+  "author": "IanTech",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capturetheworld/Pushpin.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capturetheworld/Pushpin/issues"
+  },
+  "homepage": "https://github.com/capturetheworld/Pushpin#readme"
 }
