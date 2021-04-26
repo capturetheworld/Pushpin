@@ -1,0 +1,10 @@
+{
+    "name": "pushpin",
+    "version": "1.0.0",
+    "description": "Bot that pins based on emotes",
+    "main": "bot.js",
+    "author": "IanTech",
+    "dependencies": {
+        "discord.js": "^12.5.3"
+    }
+}
